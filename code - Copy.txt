@@ -1,0 +1,51 @@
+https://www.queness.com/post/620/create-a-stunning-sliding-door-effect-with-jquery
+cd D:/yourfolder/git
+
+git config --global user.name "your name"
+git config --global user.email "your email"
+ssh-keygen
+
+git clone git@github.com:mckoycandidier/bootstrap.git
+
+git pull 
+(edit files)
+git status
+git add .
+git commit -m "my first commit"
+git push origin master
+
+git pull 
+
+git status
+
+git add .
+
+git commit -m "my gallery"
+
+git push origin master
+
+
+
+git reflog
+
+1a75c1d... HEAD@{0}: reset --hard HEAD^: updating HEAD
+f6e5064... HEAD@{1}: commit: added file2
+f6e5064... HEAD@{2}: commit: added file2
+
+git reset --hard f6e5064
+
+git pull
+
+
+How to make branch
+git branch name_of_branch
+
+git merge webdev
+git branch
+
+git checkout name_of_branch
+
+git pull origin master
+
+
+
